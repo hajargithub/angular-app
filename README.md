@@ -25,7 +25,7 @@ This is a simple Angular frontend project that displays and manages a list of pr
 
 
 ```bash
-git clone https://github.com/hajargithub/angular-app.git'/angular-app
+git clone 'https://github.com/hajargithub/angular-app.git'
 cd angular-app
 npm install
 ```
